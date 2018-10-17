@@ -29,8 +29,6 @@ The Veco team may seek to collaborate with other developers who share the same v
 
 # **Veco Features**
 
-- [ ] Decentralised Applications - Coming Soon!!!
-
 - [x] CPU Mining – AISC Resistant (can be mined with GPU, but CPU is more efficient)
 
 - [x] Masternode
@@ -41,7 +39,7 @@ The Veco team may seek to collaborate with other developers who share the same v
 
 - [x] VecoBot - Discord bot to assist community on official channel
 
-
+- [ ] Decentralised Applications - Coming Soon!!!
 
 # **Veco Coin Specification**
 
