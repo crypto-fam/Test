@@ -41,6 +41,8 @@ The Veco team may seek to collaborate with other developers who share the same v
 
 - [ ] Decentralised Applications - Coming Soon!!!
 
+
+
 # **Veco Coin Specification**
 
 :small_orange_diamond: Proof-of-Work (PoW) & Masternode
@@ -73,7 +75,7 @@ The Veco team may seek to collaborate with other developers who share the same v
 
 # **Average Block Reward**
 
-![alt text](https://i.imgur.com/zclmBl5.png) 
+![alt text](https://i.imgur.com/ee32LHk.png) 
 
 
 
