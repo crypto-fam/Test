@@ -79,7 +79,7 @@ The Veco team may seek to collaborate with other developers who share the same v
 
 # **Project Development Transparency Report**
 
-:small_orange_diamond: Veco transparency report: https://docs.google.com/spreadsheets/d/1jSScDVPmWM0wXc4d7woPnIoZbG7VERGaI9-jmsCQcA8/edit#gid=0
+:small_orange_diamond: https://docs.google.com/spreadsheets/d/1jSScDVPmWM0wXc4d7woPnIoZbG7VERGaI9-jmsCQcA8/edit#gid=0
 
 
 
