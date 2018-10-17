@@ -68,7 +68,7 @@ VECO is a new innovative cryptocurrency that is building an ecosystem for its co
 
 **Average Block Reward**
 
-![alt text](https://i.imgur.com/e8gjOME.png
+![alt text](https://i.imgur.com/e8gjOME.png)
 
 
 
