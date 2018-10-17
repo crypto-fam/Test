@@ -1,6 +1,10 @@
 # **About Veco**
 
-VECO is a new innovative cryptocurrency that is building an ecosystem for its community. The Veco community are passionate about cryptocurrency and truly believe blockchain technology is going to change the world. Our mission is to build a more open, accessible, and fair financial future for the population, and drive true value for the community by developing decentralised applications (DApps) over the masternode system. Veco will achieve this through true egalitarian Proof-of-Work (PoW) using YescriptR32, an ASIC resistant algorithm which enables people to mine coins without significant hardware investment. Veco can also be mined with GPUs, but CPU mining is more efficient. Veco will start off as a hybrid of PoW and masternodes, and will gradually move towards operating exclusively on masternodes to create a decentralised network which does not rely on any central body control. The Veco team may seek to collaborate with other developers who share the same vision and can add value to the project.
+**VECO** is a new innovative cryptocurrency that is building an ecosystem for its community. The Veco community are passionate about cryptocurrency and truly believe blockchain technology is going to change the world. 
+
+Our mission is to build a more open, accessible, and fair financial future for the population, and drive true value for the community by developing decentralised applications (DApps) over the masternode system. Veco will achieve this through true egalitarian Proof-of-Work (PoW) using YescriptR32, an ASIC resistant algorithm which enables people to mine coins without significant hardware investment. Veco can also be mined with GPUs, but CPU mining is more efficient. Veco will start off as a hybrid of PoW and masternodes, and will gradually move towards operating exclusively on masternodes to create a decentralised network which does not rely on any central body control. 
+
+The Veco team may seek to collaborate with other developers who share the same vision and can add value to the project.
 
 
 # **Veco Official Links**
@@ -22,6 +26,7 @@ VECO is a new innovative cryptocurrency that is building an ecosystem for its co
 :small_orange_diamond: Twitter: https://twitter.com/veco_coin
 
 
+
 # **Veco Features**
 
 - [ ] Decentralised Applications - Coming Soon!!!
@@ -35,6 +40,7 @@ VECO is a new innovative cryptocurrency that is building an ecosystem for its co
 - [x] PrivateSend
 
 - [x] VecoBot - Discord bot to assist community on official channel
+
 
 
 # **Veco Coin Specification**
@@ -60,9 +66,11 @@ VECO is a new innovative cryptocurrency that is building an ecosystem for its co
 :small_orange_diamond: Maximum Supply: 40,000,000
 
 
+
 # **Veco Official Exchange**
 
 - [ ] COMING SOON!!!
+
 
 
 # **Average Block Reward**
