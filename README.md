@@ -24,7 +24,7 @@ VECO is a new innovative cryptocurrency that is building an ecosystem for its co
 
 # **Veco Features**
 
-- [] Decentralised Applications - Coming Soon!!!
+- [ ] Decentralised Applications - Coming Soon!!!
 
 - [x] CPU Mining – AISC Resistant (can be mined with GPU, but CPU is more efficient)
 
@@ -62,7 +62,7 @@ VECO is a new innovative cryptocurrency that is building an ecosystem for its co
 
 # **Veco Official Exchange**
 
-- [] COMING SOON!!!
+- [ ] COMING SOON!!!
 
 
 # **Average Block Reward**
@@ -77,7 +77,7 @@ VECO is a new innovative cryptocurrency that is building an ecosystem for its co
 
 
 
-**Donations**
+# **Donations**
 
 If you'd like to support the development of Veco, please send us any amount of your favourite cryptocurrency using the following addresses:
 
