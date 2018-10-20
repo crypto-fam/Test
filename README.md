@@ -1,6 +1,6 @@
 ## Veco Masternode Installation Script
 
-This is a complete guide to setup a Masternode for Veco Coin.  The method used here is to use a "cold" Windows wallet with a "hot" Ubuntu 16.04 Linux VPS.  The reason for this is so your coins will be safe in your Windows wallet offline and the VPS will host the Masternode but will not hold any coins.
+This is a complete guide to setup a Masternode for Veco Coin.  This method uses a "cold" Windows wallet with a "hot" Ubuntu 16.04 Linux VPS.  The reason for this is so your coins will be safe in your Windows wallet offline and the VPS will host the Masternode but will not hold any coins.
 
 ## Requirements
 
