@@ -14,13 +14,13 @@ This is a complete guide to setup a Masternode for Veco Coin.  The method used h
 - Go to your Windows Veco wallet and from the menu, select Tools and click on "Debug Console"
 - Use command masternode genkey (this is your Masternode Private Key)
 - Get an Ubuntu 16.04 VPS
-- Open Putty, enter your VPS IP, use port 22 and login with username "root"
+- Open Putty, enter your VPS IP, use port "22" and login with username "root"
 - Use the password provided by the VPS provider to gain access to the server
 - Once you are logged in, copy and paste the Masternode installation script below and follow the on-screen instructions 
 
 
 ```bash
-wget https://raw.githubusercontent.com/monacocoin-net/masternode-script-monoeci/master/install.sh && chmod +x install.sh && ./install.sh
+wget https://raw.githubusercontent.com/VecoOfficial/masternode-script-veco/master/install.sh && chmod +x install.sh && ./install.sh
 ```
 
 ---
