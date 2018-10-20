@@ -1,4 +1,4 @@
-# **About Veco**
+## **About Veco**
 
 **VECO** is a new innovative cryptocurrency that is building an ecosystem for its community. The Veco community are passionate about cryptocurrency and truly believe blockchain technology is going to change the world. 
 
@@ -7,7 +7,7 @@ Veco is an egalitarian Proof-of-Work (PoW) cryptocurrency that uses YescryptR32,
 The Veco team may seek to collaborate with other developers who share the same vision and can add value to the project.
  
  
-# **Veco Official Links**
+## **Veco Official Links**
 
 :small_orange_diamond: Website: https://veco.info
 
