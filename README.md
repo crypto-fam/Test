@@ -1,11 +1,11 @@
-## Installation script :
+## Installation Script
 
-This is a complete guide to setup a Masternode for Veco Coin.  The method used here is to use a "cold" Windows wallet with a "hot" Ubuntu 16.04 Linux VPS.  The reason for this is so your coins will be safe in your Windows wallet offline and the VPS will host the Masternode, but will not hold any coins.
+This is a complete guide to setup a Masternode for Veco Coin.  The method used here is to use a "cold" Windows wallet with a "hot" Ubuntu 16.04 Linux VPS.  The reason for this is so your coins will be safe in your Windows wallet offline and the VPS will host the Masternode but will not hold any coins.
 
 ## Requirements
 
 1. Download the latest Veco Windows wallet [**here**](https://github.com/VecoOfficial/Veco/releases)
-2. Exactly 1000 VECO coins sent to a new recieving address
+2. Exactly 1000 VECO coins sent to a new receiving address
 3. Download and install Putty [**here**](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) 
 
 
@@ -26,14 +26,14 @@ wget https://raw.githubusercontent.com/monacocoin-net/masternode-script-monoeci/
 ---
 
 
-## Error troubleshooting : 
-If for some reason you dont have Git installed, you can install git with the following command:
+## Error Troubleshooting
+If for some reason you don’t have Git installed, you can install git with the following command:
 
 ```bash
 sudo apt-get install git -y
 ```
 
-If script doesn't start : 
+If script doesn't start: 
 - Check that you have write permission in the current folder
 - Check that you can change permission on a file
 
