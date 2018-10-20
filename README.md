@@ -71,7 +71,7 @@ The Veco team may seek to collaborate with other developers who share the same v
 
 # **Veco Official Exchange**
 
-- [ ] COMING SOON!!!
+- [ ] Coming Soon!!!
 
 
 
@@ -89,17 +89,21 @@ The Veco team may seek to collaborate with other developers who share the same v
 
 # **Donations**
 
-If you'd like to support the development of Veco, please send us any amount of your favourite cryptocurrency using the following addresses:
+If you'd like to support the development of Veco, please send us any amount of cryptocurrency using the following addresses:
 
 Cryptocurrency | Address
 -------------- | -------
 **Veco:** | EJVSdSmBu5od8bn2LttPgGi9FrSK9rH4hZ
 **Bitcoin:** | 38pYzc8bYBsfwdzRb4QPsqtLBkP4aEpuHr
 **Bitcoin Cash:** | 1K4maT9DpLJP1zAJy6ow7ZkNwDjBGB7Vky
-**Bitcoin Gold:** | AP2yBXTopHWrkLyC6wAhVHesUcfRVYxHmQ
-**Litecoin:** | MUA1tB8YRtgssnLE1xnYMfjBcmF4CDCV5o
+**Ethereum:** | AP2yBXTopHWrkLyC6wAhVHesUcfRVYxHmQ
+**Ethereum Classic:** | AP2yBXTopHWrkLyC6wAhVHesUcfRVYxHmQ
 **Dash:** | XneE9zTjxLaHPuYH2mdrqaLKfkgV6tagyq
+**Litecoin:** | MUA1tB8YRtgssnLE1xnYMfjBcmF4CDCV5o
+**DigiByte:** | MUA1tB8YRtgssnLE1xnYMfjBcmF4CDCV5o
 **Zcash:** | t1YVZ1Qjckfzj5QR89yKV78RGsDeRojcR1Mx
+**0x:** | MUA1tB8YRtgssnLE1xnYMfjBcmF4CDCV5o
+
 
 
 If you would like to donate to help the project in another cryptocurrency that is not listed above, please send us an e-mail or message. Thank you in advance for supporting Veco!
