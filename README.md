@@ -93,7 +93,7 @@ If you'd like to support the development of Veco, please send us any amount of c
 
 Cryptocurrency | Address
 -------------- | -------
-**Veco:** | EJVSdSmBu5od8bn2LttPgGi9FrSK9rH4hZ
+**Veco:** | VEEgBHWiHBKpjmxqQkov6NzWcPWkgdzFDj
 **Bitcoin:** | 17ydYBDMF2k4DMDYfuNCUAsU8nKW2YozXp
 **Bitcoin Cash:** | qrfh4sdanp96uwa49hzdfgnwe9ddwtyglc3p363g2m
 **Ethereum:** | 0xFcD5E4C37E8bc4774adf9a5e9c9dCceD574789ab
