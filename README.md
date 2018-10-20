@@ -4,7 +4,7 @@ This is a complete guide to setup a Masternode for Veco Coin.  The method used h
 
 ## Requirements
 
-1. Download the latest Veco Windows wallet here [ADD LINK]
+1. Download the latest Veco Windows wallet [**here**](https://github.com/VecoOfficial/Veco/releases)
 2. Exactly 1000 VECO coins sent to a new recieving address
 3. Download and install Putty (PUTTY LINK) 
 
