@@ -26,9 +26,9 @@ The Veco team may seek to collaborate with other developers who share the same v
 :small_orange_diamond: Twitter: https://twitter.com/veco_coin
 
 :small_orange_diamond: YouTube: https://www.youtube.com/channel/UCnWCx9A5MiM0SnpEYAFNzTQ?view_as=subscriber
-
-
-
+ 
+ 
+ 
 # **Veco Features**
 
 - [x] CPU Mining – AISC Resistant (can be mined with GPU, but CPU is more efficient)
